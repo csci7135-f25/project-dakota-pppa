@@ -16,7 +16,7 @@ This repository is organized as follows:
     └── talk.pdf
 ```
 
-My project has no implementation. The paper and talk pdf files in the appropriate locations.
+My project has no implementation. The paper and talk pdf files are in the appropriate locations.
 
 ## Assignment
 
